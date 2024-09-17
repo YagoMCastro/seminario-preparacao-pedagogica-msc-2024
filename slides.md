@@ -5,20 +5,17 @@ The reveal.js configuration can be found in index.html
 -------------------------------------------------------------------------------
 -->
 
-<!-- .slide: class="slide-title" data-background-image="assets/title-slide.svg" data-background-color="#000000" data-background-size="contain" -->
+<!-- .slide: class="slide-title" data-background-color="#262626" data-background-size="contain" -->
 
 <!-- Place the content at the bottom of the slide -->
 <div class="r-stretch">
 </div>
 
 <h1 id="talk-title">
-  A long talk title that may <br>be kind of boring and <br>more than one line long
+  Estratégias de Ensinagem | 11 a 20
 </h1>
 <p id="talk-authors">
-  <a href="https://www.leouieda.com" id="talk-speaker">Leonardo Uieda</a>,
-  Author Two,
-  and
-  Author Three
+  <a>Yago M Castro</a>
 </p>
 
 <!-- Place location and date side-by-side with affiliation logos -->
@@ -26,13 +23,13 @@ The reveal.js configuration can be found in index.html
 <div class="col-large">
 
 <i class="fa fa-calendar-alt" style="margin: 0 10px 0 0"></i>
-XX Month 202X
+17 de Setembro de 2024
 <span style="margin: 0 20px"></span>
-Event/host of the talk
+Seminário  1 | Preparação Pedagógica
 
 <!-- Permission to reuse and CC-BY license logo -->
 <i class="fa fa-camera" style="margin: 0 10px 0 0"></i>
-Feel free to screenshot/share/reuse this presentation
+Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apresentação
 <span style="margin: 0 20px"></span>
 <a href="https://creativecommons.org/licenses/by/4.0/"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by" style="margin: 0 10px 0 2px"></i>CC-BY 4.0 License</a>
 
@@ -53,22 +50,35 @@ Feel free to screenshot/share/reuse this presentation
 
 ===============================================================================
 
-# Heading 1
+# Dramatização
 
-This is a slide with some content.
-
-## Heading 2
-
-* Bla bla
-* Bla bla
-
-### Heading 3
-
-Meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh
-meh meh.
 
 ===============================================================================
+<h2 class="fragment"> Definição e Objetivos</h2>
+<ul>
+  <li class="text-left fragment"><b>Desenvolvimento de empatia:</b> Estudantes assumem papéis imaginários</li>
+  
+  <li class="text-left fragment"><b>Aproximação da realidade social:</b> Traz vivências reais para serem analisadas em sala de aula</li>
+  
+  <li class="text-left fragment"><b>Fomento à criatividade e liberdade de expressão:</b> Incentiva a desinibição e expressão dos estudantes</li>
+</ul>
 
+===============================================================================
+<h2 class="fragment">Aplicações no Processo de Ensino</h2>
+<ul>
+  <li class="text-left fragment"><b>Mobilização:</b> Incentiva a imersão em problemas reais</li>
+  <li class="text-left fragment"><b>Síntese:</b> Avalia o entendimento e progresso na análise de uma problemática</li>
+</ul>
+
+===============================================================================
+<h2 class="fragment">Benefícios chave</h2>
+<ul>
+  <li class="text-left fragment">Desenvolvimento de <b>habilidades sociais</b></li>
+  <li class="text-left fragment">Incentivo ao pensamento crítico e análise coletiva</li>
+  <li class="text-left fragment">Envolvimento ativo dos estudantes no processo de aprendizagem</li>
+</ul>
+
+===============================================================================
 <div class="r-stretch">
 
 # Some facts
