@@ -23,7 +23,7 @@ The reveal.js configuration can be found in index.html
 <div class="col-large">
 
 <i class="fa fa-calendar-alt" style="margin: 0 10px 0 0"></i>
-17 de Setembro de 2024
+08 de Outubro de 2024
 <span style="margin: 0 20px"></span>
 Seminário  1 | Preparação Pedagógica
 
@@ -50,11 +50,24 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 ===============================================================================
 
-# Dramatização
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
 
+<h1 >Estratégias de ensinagem</h1>
+
+<ul>
+  <li class="text-left"> Dramatização</li>
+  <li class="text-left"> Seminário</li>
+  <li class="text-left"> Estudo de Caso</li>
+  <li class="text-left"> Painel</li>
+  <li class="text-left"> Juri Simulado</li>
+  <li class="text-left"> Fórum</li>
+  <li class="text-left"> Oficina (laboratório ou workshop)</li>
+  <li class="text-left"> Estudo do Meio</li>
+  <li class="text-left"> Ensino com pesquisa**</li>
+</ul>
 
 ===============================================================================
-<h2 class="fragment"> Definição e Objetivos</h2>
+<h2> Definição e Objetivos</h2>
 <ul>
   <li class="text-left fragment"><b>Desenvolvimento de empatia:</b> Estudantes assumem papéis imaginários</li>
   
@@ -64,14 +77,14 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 </ul>
 
 ===============================================================================
-<h2 class="fragment">Aplicações no Processo de Ensino</h2>
+<h2>Aplicações no Processo de Ensino</h2>
 <ul>
   <li class="text-left fragment"><b>Mobilização:</b> Incentiva a imersão em problemas reais</li>
   <li class="text-left fragment"><b>Síntese:</b> Avalia o entendimento e progresso na análise de uma problemática</li>
 </ul>
 
 ===============================================================================
-<h2 class="fragment">Benefícios chave</h2>
+<h2>Benefícios chave</h2>
 <ul>
   <li class="text-left fragment">Desenvolvimento de <b>habilidades sociais</b></li>
   <li class="text-left fragment">Incentivo ao pensamento crítico e análise coletiva</li>
