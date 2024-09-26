@@ -55,19 +55,86 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 <h1 >Estratégias de ensinagem</h1>
 
 <ul>
-  <li class="text-left"> Dramatização</li>
-  <li class="text-left"> Seminário</li>
-  <li class="text-left"> Estudo de Caso</li>
-  <li class="text-left"> Painel</li>
-  <li class="text-left"> Juri Simulado</li>
-  <li class="text-left"> Fórum</li>
-  <li class="text-left"> Oficina (laboratório ou workshop)</li>
-  <li class="text-left"> Estudo do Meio</li>
-  <li class="text-left"> Ensino com pesquisa**</li>
+  <li> Dramatização</li>
+  <li> Seminário</li>
+  <li> Estudo de Caso</li>
+  <li> Painel</li>
+  <li> Juri Simulado</li>
+  <li> Simpósio</li>
+  <li> Fórum</li>
+  <li> Oficina (laboratório ou workshop)</li>
+  <li> Estudo do Meio</li>
+  <li> Ensino com pesquisa**</li>
 </ul>
 
 ===============================================================================
-<h2> Definição e Objetivos</h2>
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+<h1 >Estratégias de ensinagem</h1>
+
+<ul>
+  <li> Dramatização</li>
+  
+  <li style="color:red"> Seminário</li>
+  <li> Estudo de Caso</li>
+  <li> Painel</li>
+  <li> Juri Simulado</li>
+  <li style="color:red"> Simpósio</li>
+  <li> Fórum</li>
+  <li style="color:red"> Oficina (laboratório ou workshop)</li>
+  <li> Estudo do Meio</li>
+  <li style="color:red"> Ensino com pesquisa</li>
+</ul>
+
+===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Seminário
+
+<ul>
+  <li class="text-left fragment"><b>Descrição: </b>É um espaço em que as ideias devem permear ou ser semeadas. Portanto, é um espaço onde um grupo discute ou debate temas ou problemas que são colocados em discussão.
+</li>
+  
+  <li class="text-left fragment"><b>Operações de pensamento: </b> Análise / Interpretação / Crítica / Levantamento de hipóteses / Busca de suposições / Obtenção e organização de dados / Comparação / Aplicação de fatos a novas situações</li>
+
+</ul>
+
+===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Seminário
+
+<ul>
+  <li class="text-left fragment"><b>Dinâmica da atividade:</li>
+  <ul>
+    <li class="text-left fragment"><b>Preparação</b></li>
+    <ul>
+      <li class="text-left fragment">Apresentar o tema, justificar sua importância, desafiar os estudantes e orientar as pesquisas (bibliográfica, de campo ou laboratório)</li>
+      <li class="text-left fragment">Organizar o calendário para as apresentações dos estudantes</li>
+      <li class="text-left fragment">Orientar os estudantes na pesquisa e na elaboração dos registros para apresentação ao grupo</li>
+      <li class="text-left fragment">Organizar o espaço físico para facilitar o diálogo entre os participantes.</li>
+  </ul>
+</ul>
+
+===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Seminário
+
+<ul>
+  <li class="text-left"><b>Dinâmica da atividade:</li>
+  <ul>
+    <li class="text-left fragment"><b>Desenvolvimento</b></li>
+    <ul>
+      <li class="text-left fragment">O secretário anota problemas, soluções e conclusões durante a discussão</li>
+      <li class="text-left fragment">O professor dirige a sessão de crítica ao final</li>
+      <li class="text-left fragment">O professor comenta cada trabalho e sua apresentação</li>
+      <li class="text-left fragment">O professor organiza uma síntese do que foi apresentado</li>
+  </ul>
+</ul>
+
+===============================================================================
+<h2> Definição e Objetivos</h2>0
 <ul>
   <li class="text-left fragment"><b>Desenvolvimento de empatia:</b> Estudantes assumem papéis imaginários</li>
   
