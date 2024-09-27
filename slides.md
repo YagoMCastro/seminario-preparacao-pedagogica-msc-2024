@@ -173,6 +173,52 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 </ul>
 
 ===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Ensino com pesquisa
+
+<ul>
+  <li class="text-left"><b>Dinâmica da atividade:</li>
+  <ul>
+    <li class="text-left fragment"><b>Desafiar o estudante como investigador</b></li>
+    <li class="text-left fragment"><b>Estabelecer princípios: evolução do conhecimento, solução de problemas, critérios de validação, reprodução e análise</b></li>
+    <li class="text-left fragment"><b>Relatório:</b > resumo escrito, produzido individualmente ou em grupo</li>
+</ul>
+
+===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Ensino com pesquisa
+
+<ul>
+  <li class="text-left"><b>Dinâmica da atividade:</li>
+  <ul>
+    <li class="text-left"><b>Construção do projeto:</b></li>
+    <ul>
+      <li class="text-left fragment">Definir o problema de pesquisa</li>
+      <li class="text-left fragment">Definir dados e procedimentos de investigação</li>
+      <li class="text-left fragment">Definir a análise dos dados</li>
+      <li class="text-left fragment">Interpretar/validar as suposições</li>
+      <li class="text-left fragment">Apresentar os resultados</li>
+      <li class="text-left fragment">Fazer recomendações</li>
+  </ul>
+</ul>
+
+===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Ensino com pesquisa
+
+<ul>
+  <li class="text-left"><b>Avaliação:</li>
+    <ul>
+      <li class="text-left fragment">O acompanhamento deve ser contínuo, com feedback das fases já vivenciadas</li>
+      <li class="text-left fragment">Hipóteses incompletas e dados irrelevantes devem ser substituídos por mais adequados.</li>
+      <li class="text-left fragment">Um cronograma de fases auxilia no autocontrole do estudante ou grupo</li>
+      <li class="text-left fragment">Os critérios de avaliação devem ser estabelecidos antecipadamente e podem ser ajustados durante o processo</li>
+</ul>
+
+===============================================================================
 
 <h2> Definição e Objetivos</h2>0
 <ul>
