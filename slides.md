@@ -52,39 +52,55 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 <!-- .slide: data-background-color="#262626" data-background-size="contain" -->
 
-<h1 >Estratégias de ensinagem</h1>
+<h1>Estratégias de ensinagem</h1>
 
-<ul>
-  <li> Dramatização</li>
-  <li> Seminário</li>
-  <li> Estudo de Caso</li>
-  <li> Painel</li>
-  <li> Juri Simulado</li>
-  <li> Simpósio</li>
-  <li> Fórum</li>
-  <li> Oficina (laboratório ou workshop)</li>
-  <li> Estudo do Meio</li>
-  <li> Ensino com pesquisa**</li>
-</ul>
+<div class="row">
+  <div class="col">
+    <ul class="fa-ul">
+      <li> Dramatização</li>
+      <li> Seminário</li>
+      <li> Estudo de Caso</li>
+      <li> Painel</li>
+      <li> Simpósio</li>
+    </ul>
+  </div>
+  <div class="col">
+    <ul class="fa-ul">
+      <li> Juri Simulado</li>
+      <li> Fórum</li>
+      <li> Oficina (laboratório ou workshop)</li>
+      <li> Estudo do Meio</li>
+      <li> Ensino com pesquisa</li>
+    </ul>
+  </div>
+</div>
 
 ===============================================================================
+
 <!-- .slide: data-background-color="#262626" data-background-size="contain" -->
 
-<h1 >Estratégias de ensinagem</h1>
+<h1>Estratégias de ensinagem</h1>
 
-<ul>
-  <li> Dramatização</li>
-  
-  <li style="color:red"> Seminário</li>
-  <li> Estudo de Caso</li>
-  <li> Painel</li>
-  <li> Juri Simulado</li>
-  <li style="color:red"> Simpósio</li>
-  <li> Fórum</li>
-  <li style="color:red"> Oficina (laboratório ou workshop)</li>
-  <li> Estudo do Meio</li>
-  <li style="color:red"> Ensino com pesquisa</li>
-</ul>
+<div class="row">
+  <div class="col">
+    <ul class="fa-ul">
+      <li> Dramatização</li>
+      <li style="color:red"> Seminário</li>
+      <li> Estudo de Caso</li>
+      <li> Painel</li>
+      <li style="color:red"> Simpósio</li>
+    </ul>
+  </div>
+  <div class="col">
+    <ul class="fa-ul">
+      <li> Juri Simulado</li>
+      <li> Fórum</li>
+      <li style="color:red"> Oficina (laboratório ou workshop)</li>
+      <li> Estudo do Meio</li>
+      <li style="color:red"> Ensino com pesquisa</li>
+    </ul>
+  </div>
+</div>
 
 ===============================================================================
 <!-- .slide: data-background-color="#262626" data-background-size="contain" -->
