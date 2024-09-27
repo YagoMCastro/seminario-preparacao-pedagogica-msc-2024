@@ -219,7 +219,41 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 </ul>
 
 ===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
 
+# Oficina (laboratório ou workshop)
+
+<ul>
+<ul>
+  <li class="text-left fragment"><b>Descrição: </b>É a reunião de um pequeno grupo com interesses comuns para estudar e aprofundar um tema, orientado por um especialista, aplicando conhecimentos prévios</li>
+  <li class="text-left fragment"><b>Operações de pensamento: </b> Obtenção e or; nização de dados/Interpretação/ Aplicação de fatos e princípios a novas situações/ Decisão/Planejamento de projetos e pesquisas/Resumo</li>
+</ul>
+
+===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Oficina (laboratório ou workshop)
+
+<ul>
+  <li class="text-left"><b>Dinâmica da atividade:</li>
+  <ul>
+    <li class="text-left fragment">O professor organiza o grupo e prepara o ambiente e material didático com antecedência</li>
+    <li class="text-left fragment">O grupo deve ter até 15 a 20 pessoas.</li>
+    <li class="text-left fragment">As atividades podem incluir: pesquisas, palestras, discussões, resolução de problemas, atividades práticas, redação e saídas a campo, entre outros</li>
+
+</ul>
+
+===============================================================================
+
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Oficina (laboratório ou workshop)
+
+<ul>
+  <li class="text-left"><b>Avaliação:</b> A participação dos estudantes nas atividades deve demonstrar as habilidades previstas nos objetivos da oficina. Podem ser usadas autoavaliação, avaliação descritiva ou avaliação pelos resultados ao final.</li>
+</ul>
+
+===============================================================================
 <h2> Definição e Objetivos</h2>0
 <ul>
   <li class="text-left fragment"><b>Desenvolvimento de empatia:</b> Estudantes assumem papéis imaginários</li>
