@@ -147,9 +147,33 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
       <li class="text-left fragment">O professor comenta cada trabalho e sua apresentação</li>
       <li class="text-left fragment">O professor organiza uma síntese do que foi apresentado</li>
   </ul>
+    <li class="text-left fragment"><b>Relatório:</b > resumo escrito, produzido individualmente ou em grupo</li>
 </ul>
 
 ===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Seminário
+
+<ul>
+  <li class="text-left fragment"><b>Avaliação: </b>Os critérios de avaliação devem ser adequados aos objetivos da atividade em termos de conhecimento, habilidades e competências</li>
+</ul>
+
+===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Ensino com pesquisa
+
+<ul>
+  <li class="text-left fragment"><b>Descrição: </b>É a união dos princípios de ensino e pesquisa, onde a dúvida e a crítica são centrais. O estudo é visto como construtivo e significativo, promovendo concentração, autonomia e um equilíbrio entre reprodução e análise
+</li>
+  
+  <li class="text-left fragment"><b>Operações de pensamento: </b>Observação / Interpretação / Classificação / Crítica / Resumo / Análise / Hipóteses e busca de suposições / Decisão / Comparação / Imaginação / Planejamento / Obtenção e organização de dados / Aplicação de fatos a novas situações</li>
+
+</ul>
+
+===============================================================================
+
 <h2> Definição e Objetivos</h2>0
 <ul>
   <li class="text-left fragment"><b>Desenvolvimento de empatia:</b> Estudantes assumem papéis imaginários</li>
