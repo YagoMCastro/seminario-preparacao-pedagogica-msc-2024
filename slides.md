@@ -121,7 +121,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 # Seminário
 
 <ul>
-  <li class="text-left fragment"><b>Dinâmica da atividade:</li>
+  <li class="text-left fragment"><b>Dinâmica da atividade:</b></li>
   <ul>
     <li class="text-left fragment"><b>Preparação</b></li>
     <ul>
@@ -138,7 +138,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 # Seminário
 
 <ul>
-  <li class="text-left"><b>Dinâmica da atividade:</li>
+  <li class="text-left"><b>Dinâmica da atividade:</b></li>
   <ul>
     <li class="text-left fragment"><b>Desenvolvimento</b></li>
     <ul>
@@ -165,10 +165,10 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 # Ensino com pesquisa
 
 <ul>
-  <li class="text-left fragment"><b>Descrição: </b>É a união dos princípios de ensino e pesquisa, onde a dúvida e a crítica são centrais. O estudo é visto como construtivo e significativo, promovendo concentração, autonomia e um equilíbrio entre reprodução e análise
+  <li class="text-left"><b>Descrição: </b>É a união dos princípios de ensino e pesquisa, onde a dúvida e a crítica são centrais. O estudo é visto como construtivo e significativo, promovendo concentração, autonomia e um equilíbrio entre reprodução e análise
 </li>
   
-  <li class="text-left fragment"><b>Operações de pensamento: </b>Observação / Interpretação / Classificação / Crítica / Resumo / Análise / Hipóteses e busca de suposições / Decisão / Comparação / Imaginação / Planejamento / Obtenção e organização de dados / Aplicação de fatos a novas situações</li>
+  <li class="text-left"><b>Operações de pensamento: </b>Observação / Interpretação / Classificação / Crítica / Resumo / Análise / Hipóteses e busca de suposições / Decisão / Comparação / Imaginação / Planejamento / Obtenção e organização de dados / Aplicação de fatos a novas situações</li>
 
 </ul>
 
@@ -178,10 +178,10 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 # Ensino com pesquisa
 
 <ul>
-  <li class="text-left"><b>Dinâmica da atividade:</li>
+  <li class="text-left"><b>Dinâmica da atividade:</b></li>
   <ul>
-    <li class="text-left fragment"><b>Desafiar o estudante como investigador</b></li>
-    <li class="text-left fragment"><b>Estabelecer princípios: evolução do conhecimento, solução de problemas, critérios de validação, reprodução e análise</b></li>
+    <li class="text-left fragment">Desafiar o estudante como investigador</li>
+    <li class="text-left fragment">Estabelecer princípios: evolução do conhecimento, solução de problemas, critérios de validação, reprodução e análise</li>
     <li class="text-left fragment"><b>Relatório:</b > resumo escrito, produzido individualmente ou em grupo</li>
 </ul>
 
@@ -191,7 +191,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 # Ensino com pesquisa
 
 <ul>
-  <li class="text-left"><b>Dinâmica da atividade:</li>
+  <li class="text-left"><b>Dinâmica da atividade:</b></li>
   <ul>
     <li class="text-left"><b>Construção do projeto:</b></li>
     <ul>
@@ -210,7 +210,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 # Ensino com pesquisa
 
 <ul>
-  <li class="text-left"><b>Avaliação:</li>
+  <li class="text-left"><b>Avaliação:</b></li>
     <ul>
       <li class="text-left fragment">O acompanhamento deve ser contínuo, com feedback das fases já vivenciadas</li>
       <li class="text-left fragment">Hipóteses incompletas e dados irrelevantes devem ser substituídos por mais adequados.</li>
@@ -224,9 +224,8 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 # Oficina (laboratório ou workshop)
 
 <ul>
-<ul>
-  <li class="text-left fragment"><b>Descrição: </b>É a reunião de um pequeno grupo com interesses comuns para estudar e aprofundar um tema, orientado por um especialista, aplicando conhecimentos prévios</li>
-  <li class="text-left fragment"><b>Operações de pensamento: </b> Obtenção e or; nização de dados/Interpretação/ Aplicação de fatos e princípios a novas situações/ Decisão/Planejamento de projetos e pesquisas/Resumo</li>
+  <li class="text-left"><b>Descrição: </b>É a reunião de um pequeno grupo com interesses comuns para estudar e aprofundar um tema, orientado por um especialista, aplicando conhecimentos prévios</li>
+  <li class="text-left"><b>Operações de pensamento: </b> Obtenção e or; nização de dados/Interpretação/ Aplicação de fatos e princípios a novas situações/ Decisão/Planejamento de projetos e pesquisas/Resumo</li>
 </ul>
 
 ===============================================================================
@@ -235,7 +234,7 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 # Oficina (laboratório ou workshop)
 
 <ul>
-  <li class="text-left"><b>Dinâmica da atividade:</li>
+  <li class="text-left"><b>Dinâmica da atividade:</b></li>
   <ul>
     <li class="text-left fragment">O professor organiza o grupo e prepara o ambiente e material didático com antecedência</li>
     <li class="text-left fragment">O grupo deve ter até 15 a 20 pessoas.</li>
@@ -251,6 +250,64 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 <ul>
   <li class="text-left"><b>Avaliação:</b> A participação dos estudantes nas atividades deve demonstrar as habilidades previstas nos objetivos da oficina. Podem ser usadas autoavaliação, avaliação descritiva ou avaliação pelos resultados ao final.</li>
+</ul>
+
+===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Simpósio
+
+<ul>
+  <li class="text-left"><b>Descrição: </b>Reunião de palestras breves sobre um tema. Promove habilidades sociais, investigação e amplia o conhecimento. Ajuda a estabelecer conexões e interações significativas.
+</li>
+  
+  <li class="text-left"><b>Operações de pensamento: </b>Obtenção de dados / Crítica / Comparação / Elaboração de hipóteses / Organização de dados</li>
+
+</ul>
+
+===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Simpósio
+
+<ul>
+  <li class="text-left"><b>Dinâmica da atividade:</b></li>
+  <ul>
+    <li class="text-left fragment">Em grupos, os estudantes preparam e organizam as apresentações, com duração de 15 a 30 minutos</li>
+    <li class="text-left fragment">O professor indica as bibliografias para cada grupo ou subtema, evitando repetições</li>
+    <li class="text-left fragment">Cada grupo escolhe um representante para ser o comunicador na mesa de apresentação.</li>
+</ul>
+
+===============================================================================
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Simpósio
+
+<ul>
+  <li class="text-left"><b>Dinâmica da atividade:</b></li>
+  <ul>
+    <li class="text-left fragment">Os comunicadores apresentam sem interrupções</li>
+    <li class="text-left fragment">O grande grupo faz perguntas e as envia ao coordenador da mesa</li>
+    <li class="text-left fragment">O coordenador resume as ideias e direciona as perguntas aos comunicadores. Pode ser um estudante.</li>
+    <li class="text-left fragment">Não é necessário um encerramento formal</li>
+    
+</ul>
+
+===============================================================================
+
+<!-- .slide: data-background-color="#262626" data-background-size="contain" -->
+
+# Simpósio
+
+<ul>
+  <li class="text-left"><b>Avaliação:</b></li>
+  <ul>
+    <li class="text-left fragment">Concisão das ideias dos comunicadores</li>
+    <li class="text-left fragment">Pertinência das questões do grande grupo</li>
+    <li class="text-left fragment">Lógica dos argumentos</li>
+    <li class="text-left fragment">Relação entre os diferentes pontos de vista</li>
+    <li class="text-left fragment">Conhecimentos relacionados ao tema e explicitados</li>
+  </ul>
 </ul>
 
 ===============================================================================
