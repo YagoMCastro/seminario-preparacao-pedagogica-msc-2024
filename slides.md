@@ -110,9 +110,6 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 <ul>
   <li class="text-left fragment"><b>Descrição: </b>É um espaço em que as ideias devem permear ou ser semeadas. Portanto, é um espaço onde um grupo discute ou debate temas ou problemas que são colocados em discussão.
 </li>
-  
-  <li class="text-left fragment"><b>Operações de pensamento: </b> Análise / Interpretação / Crítica / Levantamento de hipóteses / Busca de suposições / Obtenção e organização de dados / Comparação / Aplicação de fatos a novas situações</li>
-
 </ul>
 
 ===============================================================================
@@ -167,9 +164,6 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 <ul>
   <li class="text-left"><b>Descrição: </b>É a união dos princípios de ensino e pesquisa, onde a dúvida e a crítica são centrais. O estudo é visto como construtivo e significativo, promovendo concentração, autonomia e um equilíbrio entre reprodução e análise
 </li>
-  
-  <li class="text-left"><b>Operações de pensamento: </b>Observação / Interpretação / Classificação / Crítica / Resumo / Análise / Hipóteses e busca de suposições / Decisão / Comparação / Imaginação / Planejamento / Obtenção e organização de dados / Aplicação de fatos a novas situações</li>
-
 </ul>
 
 ===============================================================================
@@ -225,7 +219,6 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 <ul>
   <li class="text-left"><b>Descrição: </b>É a reunião de um pequeno grupo com interesses comuns para estudar e aprofundar um tema, orientado por um especialista, aplicando conhecimentos prévios</li>
-  <li class="text-left"><b>Operações de pensamento: </b> Obtenção e or; nização de dados/Interpretação/ Aplicação de fatos e princípios a novas situações/ Decisão/Planejamento de projetos e pesquisas/Resumo</li>
 </ul>
 
 ===============================================================================
@@ -260,9 +253,6 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 <ul>
   <li class="text-left"><b>Descrição: </b>Reunião de palestras breves sobre um tema. Promove habilidades sociais, investigação e amplia o conhecimento. Ajuda a estabelecer conexões e interações significativas.
 </li>
-  
-  <li class="text-left"><b>Operações de pensamento: </b>Obtenção de dados / Crítica / Comparação / Elaboração de hipóteses / Organização de dados</li>
-
 </ul>
 
 ===============================================================================
