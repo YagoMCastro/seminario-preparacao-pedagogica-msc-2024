@@ -315,20 +315,21 @@ Sinta-se à vontade para tirar capturas de tela/compartilhar/reutilizar esta apr
 
 <!-- .slide: data-background-color="#262626" data-background-size="contain" -->
 
-<table>
-  <tr><th>Elemento</th><th>Ocorrências</th></tr>
-  <tr><td>Interpretação</td><td>17</td></tr>
-  <tr><td>Crítica</td><td>15</td></tr>
-  <tr><td>Obtenção e organização de dados</td><td>14</td></tr>
-  <tr><td>Análise</td><td>10</td></tr>
-  <tr><td>Busca de suposições</td><td>9</td></tr>
-  <tr><td>Resumo</td><td>9</td></tr>
-  <tr><td>Comparação</td><td>8</td></tr>
-  <tr><td>Decisão</td><td>6</td></tr>
-  <tr><td>Imaginação</td><td>5</td></tr>
-  <tr><td>Levantamento de hipóteses</td><td>5</td></tr>
-  <tr><td>Observação</td><td>5</td></tr>
-</table>
+
+| Elemento    | Occorrências |
+| ------------------------------- | :---------: |
+| Interpretação  | 17    |
+| Crítica | 15     |
+| Obtenção e organização de dados | 14    |
+| Análise    | 10    |
+| Busca de suposições  | 9   |
+| Resumo    | 9   |
+| Comparação    | 8   |
+| Decisão    | 6   |
+| Imaginação    | 5    |
+| Levantamento de hipóteses  | 5    |
+| Observação    | 5   |
+
 
 ===============================================================================
 
@@ -359,3 +360,5 @@ licenciado sob a
 
 </div>
 </div>
+
+
