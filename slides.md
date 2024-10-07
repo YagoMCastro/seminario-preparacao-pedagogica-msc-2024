@@ -12,7 +12,7 @@ The reveal.js configuration can be found in index.html
 </div>
 
 <h1 id="talk-title">
-  Estratégias de Ensinagem | 11 a 20
+  Estratégias de Ensinagem
 </h1>
 <p id="talk-authors">
   <a>Yago M Castro</a>
